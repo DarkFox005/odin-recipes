@@ -1,0 +1,20 @@
+* {
+    color: rgb(27, 25, 25);
+    background-color: antiquewhite;
+    font-family: Garamond, Georgia serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+p {
+    font-size: 32px;
+    font-weight: bold;
+}
+li {
+    text-align: left;
+    margin: auto;
+}
