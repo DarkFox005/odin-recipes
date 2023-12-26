@@ -14,7 +14,14 @@ p {
     font-size: 32px;
     font-weight: bold;
 }
-li {
+li,
+#List2 {
     text-align: left;
     margin: auto;
+}
+
+ul,
+ol {
+    margin-left: 450px;
+    margin-right: 450px;
 }
